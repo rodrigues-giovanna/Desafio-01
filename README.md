@@ -18,8 +18,6 @@ Um projeto simples e divertido desenvolvido com **HTML, CSS e JavaScript**. O ca
 
 # 📸 Humores disponíveis
 
-| Emoji | Estado              |
-|-----------------------------|
 | 💻    | Modo Programador    |
 | ☕    | Preciso de Energético|     
 | 🐛    | Bug Detectado       |
