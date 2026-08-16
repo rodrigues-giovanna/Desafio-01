@@ -19,7 +19,7 @@ Um projeto simples e divertido desenvolvido com **HTML, CSS e JavaScript**. O ca
 # 📸 Humores disponíveis
 
 | 💻    | Modo Programador    |
-| ☕    | Preciso de Energético|     
+| 🥤    | Preciso de Energético|     
 | 🐛    | Bug Detectado       |
 | 🚀    | Código Funcionando  |
 | 💀    | Erro 404: Paciência |
